@@ -1,0 +1,11 @@
+C:\Users\roger\OneDrive\Área de Trabalho\Grupo Criar - Teste\RaceAppGrupoCriar\bin\Debug\RaceAppGrupoCriar.exe.config
+C:\Users\roger\OneDrive\Área de Trabalho\Grupo Criar - Teste\RaceAppGrupoCriar\bin\Debug\RaceAppGrupoCriar.exe
+C:\Users\roger\OneDrive\Área de Trabalho\Grupo Criar - Teste\RaceAppGrupoCriar\bin\Debug\RaceAppGrupoCriar.pdb
+C:\Users\roger\OneDrive\Área de Trabalho\Grupo Criar - Teste\RaceAppGrupoCriar\obj\Debug\RaceAppGrupoCriar.exe
+C:\Users\roger\OneDrive\Área de Trabalho\Grupo Criar - Teste\RaceAppGrupoCriar\obj\Debug\RaceAppGrupoCriar.pdb
+C:\Users\roger\OneDrive\Área de Trabalho\Teste - Grupo Criar\RaceAppGrupoCriar\bin\Debug\RaceAppGrupoCriar.exe.config
+C:\Users\roger\OneDrive\Área de Trabalho\Teste - Grupo Criar\RaceAppGrupoCriar\bin\Debug\RaceAppGrupoCriar.exe
+C:\Users\roger\OneDrive\Área de Trabalho\Teste - Grupo Criar\RaceAppGrupoCriar\bin\Debug\RaceAppGrupoCriar.pdb
+C:\Users\roger\OneDrive\Área de Trabalho\Teste - Grupo Criar\RaceAppGrupoCriar\obj\Debug\RaceAppGrupoCriar.csprojAssemblyReference.cache
+C:\Users\roger\OneDrive\Área de Trabalho\Teste - Grupo Criar\RaceAppGrupoCriar\obj\Debug\RaceAppGrupoCriar.exe
+C:\Users\roger\OneDrive\Área de Trabalho\Teste - Grupo Criar\RaceAppGrupoCriar\obj\Debug\RaceAppGrupoCriar.pdb
